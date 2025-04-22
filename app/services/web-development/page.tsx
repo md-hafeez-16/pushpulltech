@@ -80,7 +80,7 @@ export default function WebDevelopmentPage() {
               <FadeIn direction="right" delay={0.2}>
                 <div className="flex flex-col gap-6">
                   <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight text-blue-950">
-                    Transforming Ideas into Powerful Web Applications
+                    Transforming Ideas into Powerful Web Applications.
                   </h2>
                   <p className="text-gray-600">
                     At PUSHPULL TECHNOLOGIES, we specialize in developing custom web applications that solve complex

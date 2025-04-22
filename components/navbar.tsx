@@ -53,7 +53,7 @@ export default function Navbar() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="font-bold text-xl"
           >
-            TECHNOLOGIES
+            TECHNOLOGYS
           </motion.span>
         </Link>
 
